@@ -6,7 +6,7 @@ const ImageScreen = () => {
     return (
         <View>
             <ImageDetail 
-            title="asd 2"
+            title="Моренце"
             score={2}
             imageSource={require('../../assets/beach.jpg')}/>
             
