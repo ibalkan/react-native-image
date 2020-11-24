@@ -8,7 +8,7 @@ const [colors, setColors]  = useState([]);
     return (
         <View>
             <Button 
-            title="Add a Color" onPress={() => {
+            title="Add a Color 1" onPress={() => {
                 setColors([...colors, randomRgb()])
             }}/>
 
